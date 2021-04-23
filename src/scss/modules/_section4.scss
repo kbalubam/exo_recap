@@ -1,0 +1,31 @@
+#section4{
+    .row{
+        .col-6{
+            div{
+                .img1{
+                    width: 49%;
+                    height: auto;
+                    background-image: url("../img/blog_post_01.jpg");
+                    background-size: cover;
+                    margin: 0;
+                    position: relative;
+                    p{
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        color: red;
+                        background-color: rgb(255,255,255,0.5);
+                    }
+                }
+                div{
+                    width:49%;
+                    margin: 0;
+                    a{
+                        color: $saumon;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+}
