@@ -1,0 +1,33 @@
+*{
+    margin:0;
+}
+
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top:50px;
+    .globale1{
+        display: flex;
+        width: 70%;
+        margin-bottom: 50px;
+        .breakfirst{
+            display: flex;
+            
+            
+            .card{
+            
+                height: 65%;
+                .card-body{
+                    
+                }
+            }
+        }
+    }
+    .globale2{
+        background-color: rgba(242,246,255,255);
+    }
+    
+    
+    
+}

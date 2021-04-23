@@ -1,0 +1,33 @@
+h1{
+    font-size: 20px;
+}
+p{
+    margin-top: 35px;
+    font-size: 15px;
+}
+
+
+.form-contact{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    
+    .globale{
+        width: 70%;
+        margin-bottom: 50px;
+        
+        form{
+            .titre{
+                height: 50px;
+            }
+        }
+    }
+}
+.carte{
+    width: 70%;
+    iframe{
+        width: 100%;
+    }
+}
